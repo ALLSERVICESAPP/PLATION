@@ -1,0 +1,97 @@
+}
+
+#contenedor
+{
+  background: url("LOGO_AS1.png");
+  float:right;
+}
+
+#cabecera
+{
+  padding:2px;
+  background-color:none;
+}
+
+body {
+    font-family: Open Sans;
+    margin: 0px;
+}
+
+
+#columna1
+{
+  margin-left:410px;
+  border-left:1px solid #aaa;
+  padding:5px;
+  float:left;
+  width:400px;
+  margin:0;
+  text-align: center;
+}
+
+#columna2
+{
+  margin-left:410px;
+  border-left:1px solid #aaa;
+  padding:5px;
+  float:left;
+  width:400px;
+  margin:0;
+  text-align: center;
+}
+
+#columna3
+{
+  margin-left:410px;
+  border-left:1px solid #aaa;
+  padding:5px;
+  float:left;
+  width:400px;
+  margin:0;
+  text-align: center;
+}
+
+#pie
+{
+  padding:10px;
+  color:#fff;
+  background-color:yellow;
+  clear:left;
+  text-align: center;
+}
+
+#aliados
+{
+  padding:10px;
+  color:purple;
+  background-color:none;
+  clear:left;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 40px;
+  color: gray;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial;
+  font-size: 32px;
+  color:gray;
+  text-align: center;
+}
+
+h3 {
+  font-family: Arial;
+  font-size: 25px;
+  color:gray;
+  text-align: center;
+}
+
+h4 {
+  font-family: Arial;
+  font-size: 30px;
+  color:gray;
+  text-align: center;
+}
