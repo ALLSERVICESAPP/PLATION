@@ -1,2 +1,2 @@
 # ALLSERVICE
-Solo para administradores de la plataforma ALLSERVICEAPP 
+Solo para administradores ALLSERVICEAPP 
